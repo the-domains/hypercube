@@ -1,4 +1,4 @@
-name: null
+name: Hypercube
 favicon: null
 layout_spectrum: 0.6961117889732122
 typography_spectrum: 0.4964041521307081
@@ -15,7 +15,12 @@ opengraph:
   type: null
   appId: null
 color:
-  brandColors: []
+  brandColors:
+    - '#ff2600'
+    - '#000000'
+    - '#333333'
+    - '#800400'
+    - '#808080'
   brandStrength: 0.9446281299460679
   lightness: 0.7002245138864964
   saturation: 0.6655599609948695
